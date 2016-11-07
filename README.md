@@ -55,7 +55,7 @@ Name: Recursion.cpp
 
 1. Uncompress the homework.  The homework file is compressed.  
    To uncompress it use the following commands 
-       % unzip [MooreHW2]
+       % unzip [MooreHW3]
 
    Now you should see a directory named homework with the files:
         main.cpp
